@@ -1,0 +1,90 @@
+*{
+	width: 766px;
+	height: 506px;
+
+}
+.header{
+	height: 82px;
+	background-color:lightgrey;
+	color:white;
+	padding: 10px;
+	text-align: center;
+	margin: 20px;
+}
+.nav{
+	height: 82px;
+	background-color:lightgrey;
+	color:white;
+	padding: 10px;
+	text-align: center;
+	margin: 20px;
+}
+.article{
+	background-color:grey;
+	width: 404px;
+	height:157px;
+	position: relative;
+	top: -348px;
+	right:-34px;
+	text-align: center;
+	color:white;
+	padding: 5px;
+}
+.section{
+	height: 248px;
+	width: 437px;
+	left: 259px;
+	top:190px;
+	right: 696px;
+	bottom: 438px;
+	background: white;
+	margin: 20px;
+	color: white;
+	text-align: center;
+	background-color: lightgrey;
+}
+.aside{
+	background-color: lightgrey;
+	height: 248px;
+	width: 337px;
+	left: 569px;
+	top: -168px;
+	right: 0px;
+	bottom: 420px;
+	margin: -100px;
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.footer{
+	background-color: lightgrey;
+	height: 82px;
+	width: 787px;
+	top: -56px;
+	right: -20px;
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.h1h2h3{
+	position: relative;
+	top: -471px;
+	left: 54px;
+	background-color:lightgrey;
+	height:45px;
+	width: 366px;
+	text-align: center;
+	color: white;
+
+}
+.pbox{
+	position: relative;
+	top: -462px;
+	left: 54px;
+	background-color:lightgrey;
+	height:45px;
+	width: 366px;
+	text-align: center;
+	color: white;
+
+}
